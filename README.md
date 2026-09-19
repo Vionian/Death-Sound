@@ -4,6 +4,11 @@ Death Sound replaces teammate downed and death sounds with local audio files.
 It includes the required `SimpleAudio` runtime and does not require a separate
 audio-library mod.
 
+The repository keeps the Lua source, configuration, example audio, and runtime
+license. The runtime DLLs are shipped in the downloadable Release archive so
+the repository stays easy to browse and clone; install the Release archive when
+you want the complete ready-to-use mod.
+
 ## Installation
 
 1. Copy the `Death Sound` folder into the game's `mods` directory.
